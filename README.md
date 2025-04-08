@@ -6,7 +6,7 @@ Run `rubee db structure`
 
 # Running Migrations
 Create a migration file See examples
-Run `rubee db run:{{file_name.rb || all}}`
+Run `rubee db run:{{file_name || all}}`
 
 # Start Dev
 run `rubee start_dev`
